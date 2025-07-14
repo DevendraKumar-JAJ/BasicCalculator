@@ -6,7 +6,6 @@ let arr = Array.from(buttons);
 arr.forEach((button) => {
   button.addEventListener("click", (e) => {
     if (e.target.innerHTML == "=") {
-      console.log(eval(string));
       string = eval(string);
       input.value = string;
     } else if (e.target.innerHTML == "AC") {
@@ -31,7 +30,7 @@ document.addEventListener("keydown", (e) => {
     string = eval(string);
     input.value = string;
   } else if (e.key == "AC") {
-    string = "";
+    string ="";
     input.value = string;
   } else if (e.key == "Backspace") {
     console.log(string)
