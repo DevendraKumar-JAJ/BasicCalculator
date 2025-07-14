@@ -40,3 +40,6 @@ The code is organized into two main parts:
 ###### This project is licensed under the MIT License 📝. [See LICENSE for details](https://en.wikipedia.org/wiki/MIT_License).
 
 I hope this helps! Let me know if you need any further assistance 😊.
+
+### Author 
+##### Devendra Kumar
