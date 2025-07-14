@@ -1,6 +1,7 @@
 # Basic Calculator 🧮
 
 A simple calculator built using HTML, CSS, and JavaScript 💻.
+[BasicCalculator](https://devendrakumar-jaj.github.io/BasicCalculator/)
 
 ## Features 🎉
 
